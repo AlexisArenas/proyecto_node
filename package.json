@@ -1,0 +1,22 @@
+{
+  "name": "proyectoconnode",
+  "version": "1.0.0",
+  "description": "proyecto con nodejs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisArenas/proyecto_node.git"
+  },
+  "author": "Alexis Arenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisArenas/proyecto_node/issues"
+  },
+  "homepage": "https://github.com/AlexisArenas/proyecto_node#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
